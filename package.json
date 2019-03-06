@@ -4,6 +4,8 @@
   "description": "Base scss styles used on some DagonMetric projects.",
   "author": "DagonMetric",
   "license": "MIT",
+  "main": "_core.scss",
+  "style": "_core.scss",
   "keywords": [
     "app styles base",
     "scss",
@@ -13,11 +15,5 @@
     "type": "git",
     "url": "https://github.com/DagonMetric/app-styles-base.git"
   },
-  "homepage": "https://github.com/DagonMetric/app-styles-base",
-  "scripts": {
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/DagonMetric/app-styles-base"
 }
