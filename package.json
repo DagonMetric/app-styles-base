@@ -1,6 +1,6 @@
 {
   "name": "@dagonmetric/app-styles-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Base scss styles used on some DagonMetric projects.",
   "author": "DagonMetric",
   "license": "MIT",
