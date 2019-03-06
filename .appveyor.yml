@@ -14,6 +14,7 @@ install:
         iex '"//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII'
         iex "npm whoami"
       }
+build: "off"
 test: "off"
 deploy_script:
   - ps: |
